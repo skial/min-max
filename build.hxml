@@ -2,8 +2,9 @@
 
 -main Entry
 
--debug
-#-dce full
+#-debug
+-dce full
+-D analyzer-optimize
 
 --each
 
