@@ -1,0 +1,26 @@
+-cp src
+
+-main Entry
+
+-debug
+#-dce full
+
+--each
+
+-js bin/mm.js
+
+--next 
+
+-python bin/mm.py
+
+--next
+
+-php bin/mm
+
+--next
+
+-hl bin/mm.hl
+
+--next
+
+-neko bin/mm.n
