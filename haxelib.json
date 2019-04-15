@@ -1,0 +1,11 @@
+{
+	"name": "min-max",
+	"url": "https://github.com/skial/min-max",
+	"classPath": "src",
+	"releasenote": "",
+	"description": "Provides min and max cross-platform constants for Int and Float types",
+	"contributors": ["skial"],
+	"version": "1.0.0",
+	"tags": ["haxe", "min", "max", "int", "float", "cross-platform"],
+	"license": "MIT"
+}
