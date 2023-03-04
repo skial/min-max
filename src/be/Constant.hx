@@ -43,7 +43,7 @@ typedef Ints = I;
         #elseif java
         return untyped __java__('Double.MAX_VALUE');
         #elseif cpp
-        return 1.79769313486232e+308;
+	return 1.7976931348623157E+308;
         #elseif hl
         return 3.4028234664e+38;
         #elseif python
