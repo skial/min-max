@@ -19,7 +19,7 @@ typedef Ints = I;
         #elseif java
         return untyped __java__('Double.MIN_VALUE');
         #elseif cpp
-        return 2.2250738585072e-308;
+	return 2.2250738585072014E-308;
         #elseif hl
         // Should be the MIN IEEE double precison float.
         // @see https://haxe.org/blog/hashlink-in-depth-p2/
